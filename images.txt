@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:trixie-perl
 python:3.11.15-alpine3.24
+mysql:latest
